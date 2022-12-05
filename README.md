@@ -4,10 +4,10 @@
 <a href="https://arjun-porfolio.vercel.app">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="irohi.vercel.app" />
 </a>
-<a title="arjunbhakuni23@gmail.com" href="mailto:nandanesudhir1@gmai.com">
+<a title="nandanesudhir1@gmauil.com" href="nandanesudhir1@gmai.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
-<a href="[https://www.linkedin.com/in/arjun-singh-366476194/](https://www.linkedin.com/in/sudhir-nandane-38843212a/)">
+<a href="[[https://www.linkedin.com/in/arjun-singh-366476194/](https://www.linkedin.com/in/sudhir-nandane-38843212a/)](https://www.linkedin.com/in/sudhir-nandane-38843212a/)">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sudhir" />
 </a>
 
