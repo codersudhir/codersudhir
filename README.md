@@ -73,13 +73,13 @@
 
 
 
-  <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
+<!--   <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
     <img width="400" height="auto"  alt="Arjun's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ArjunSinghBhakuni&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" alt="ArjunSinghBhakuni" />
-</p>
+</p> -->
 
 ---
 
