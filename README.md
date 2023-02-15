@@ -12,7 +12,7 @@
 </a>
 ---
 
- I'm a Software Engineer and Life Long Learner!
+- I'm a Software Engineer and Life Long Learner!
 - 🌱 I’m currently Learning MERN Stack at Masai School.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
@@ -60,15 +60,6 @@
 </p>
 <br>
 
-
----
-
-### Desktop Environment:
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
-
----
 
 
 <p display="flex" align="center">
