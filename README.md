@@ -13,7 +13,7 @@
 ---
 
 - I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning MERN Stack at Masai School.
+- 🌱  I am Full Stack Developer
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
 - ⚡ Fact: I love to make videos on youtube.
