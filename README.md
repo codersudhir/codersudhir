@@ -32,7 +32,7 @@
 
 <p align="left">
     <a href="https://codersudhir.github.io/">
-        <img src="https://komarev.com/ghpvc/?username=ArjunSinghBhakuni&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+        <img src="https://komarev.com/ghpvc/?username=codersudhir&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
     </a>
 
 </p>
