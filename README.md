@@ -1,82 +1,96 @@
 <img widht="100%" src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" />
-# Hi there, I'm Sudhir Nandane 👋 
-<a href="https://codersudhir.github.io/">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white"
-       alt="https://codersudhir.github.io/" />
-</a>
-<a title="nandanesudhir1@gmail.com" href="mailto:nandanesudhir1@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nandanesudhir1@gmail.com" />
-</a>
-<a title="nandanesudhir1@gmail.com" href="https://www.linkedin.com/in/sudhir-nandane-38843212a/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sudhir-nandane-38843212a/" />
-</a>
 
+<h1 align="center">Hi there, I'm Sudhir Nandane 👋</h1>
 
----
-
-- I'm a Software Engineer and Life Long Learner!
-- 🌱  I am Full Stack Developer
-- SDE1 at CGmeetup.com
-- 🌏 Looking to solve real-world problems.
-- 💻 I'm passionate about making creative websites.
-- ⚡ Fact: I love to make videos on youtube.
-- 💬 Ask me about Full Stack Developement Next js , React.js , Typescript ,javascript ,Node.js ,Mongo DB ,  Prisma ORM , Sequelize , Mysql , AWS , Proble Solving .
- 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
----
-
-
- 
-<!----------------------------------- Profile View Section ------------------------------------>
-
-<p align="left">
-    <a href="https://codersudhir.github.io/">
-        <img src="https://komarev.com/ghpvc/?username=codersudhir&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
-    </a>
-
-</p>
- 
-
-
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-<h2><i>Tech Stack</i></h2>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-</p>
-<br>
-
-
-
-<p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersudhir&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-
-
-   <a href="https://github.com/codersudhir?tab=repositories">
-    <img width="400" height="auto"  alt="sudhir's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=codersudhir&show_icons=true&theme=algolia&count_private=true" />
+<p align="center">
+  <a href="https://codersudhir.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio"/>
   </a>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codersudhir&hide=smalltalk&theme=algolia&layout=compact" alt="fgh" />
+  <a href="mailto:nandanesudhir1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sudhir-nandane-38843212a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
+
+### 🚀 About Me
+- 🧑‍💻 I'm a **Software Engineer** and a lifelong learner.
+- 🌱 Full Stack Developer @ **Nadsoft IT Solutions**.
+- 🌏 Always looking to solve real-world problems.
+- 🎨 Passionate about building **creative websites & web apps**.
+- 📹 Fun fact: I love making videos on **YouTube**!
+- 💬 Ask me about:  
+  `Next.js`, `React.js`, `TypeScript`, `JavaScript`, `Node.js`, `MongoDB`, `Prisma`, `Sequelize`, `MySQL`, `AWS`, and `Problem Solving`.
+
+---
+
+### 🔥 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersudhir&theme=algolia&hide_border=true" alt="sudhir streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=codersudhir&show_icons=true&theme=algolia&count_private=true&hide_border=true" alt="Sudhir GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersudhir&theme=algolia&layout=compact&hide_border=true" alt="Sudhir Top Languages" width="400"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codersudhir&theme=algolia&no-frame=true&row=2&column=4" alt="trophy" />
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,prisma,sequelize,aws,git,github,postman,vscode" />
+</p>
+
+---
+
+### 🎯 Currently Working On
+- Improving backend architecture using **Node.js, Prisma, and AWS**
+- Advanced **React + Next.js** web applications with animations
+- Creating **open-source contributions**
+- Building tech tutorials on **YouTube**
+
+---
+
+### 🌟 Fun & Personal
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+love+Coding;I+love+Designing;Always+Learning+Something+New;Let's+Connect+and+Collaborate!&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&color=18A303" />
+</p>
+
+---
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codersudhir&label=Profile%20Views&color=18A303&style=flat" alt="profile views"/>
+</p>
+
+---
+
+### 🗣️ Let's Connect & Collaborate!
+<p align="center">
+  <a href="https://codersudhir.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" />
+  </a>
+  <a href="mailto:nandanesudhir1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudhir-nandane-38843212a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+_⭐ If you like my work, feel free to star this profile! ⭐_
 
