@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sudhir Nandane 👋</h1>
+<h1 align="center">Hi there, I'm Sudhir Nandane 👋</h1>
 
 <p align="center">
-  🚀 Backend-Focused Full Stack Engineer | Node.js | PostgreSQL | AWS | Scalable Systems
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend-Focused+Full+Stack+Engineer;Node.js+%7C+PostgreSQL+%7C+AWS;Building+Scalable+Systems;4%2B+Years+Experience&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000&color=18A303" />
 </p>
 
 <p align="center">
@@ -20,53 +20,63 @@
 
 ## 🧠 About Me
 
-Backend-focused Full Stack Engineer with 4+ years of experience building scalable, production-grade applications.
+💻 Backend-focused Full Stack Engineer with **4+ years of experience** building scalable, production-grade applications.
 
-I specialize in designing high-performance APIs, optimizing database queries, and building reliable backend systems using Node.js, PostgreSQL, and AWS.
+⚡ I specialize in:
+- Designing **high-performance APIs**
+- Optimizing **database queries (PostgreSQL, MongoDB)**
+- Building **scalable backend systems**
+- Deploying **cloud-ready applications (AWS, Docker)**
 
 ---
 
-## 🔥 What I Bring
+## 🔥 What I Do Best
 
-✔ Scalable backend architecture  
-✔ API performance optimization & query tuning  
-✔ Payment & refund systems (real-world use cases)  
-✔ Secure authentication (JWT, RBAC)  
-✔ REST & GraphQL APIs  
-✔ Cloud-ready deployments (AWS, Docker)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,aws,docker,redis,graphql" />
+</p>
+
+- 🚀 Scalable backend architecture  
+- ⚡ API performance optimization  
+- 💳 Payment & refund systems  
+- 🔐 Secure authentication (JWT, RBAC)  
+- 🔄 REST & GraphQL APIs  
+- ☁️ Cloud deployments (AWS, Docker)  
 
 ---
 
 ## 💻 Tech Stack
 
-**Backend:** Node.js, Express, NestJS  
-**Database:** PostgreSQL, MongoDB, MySQL  
-**Frontend:** React.js, Next.js  
-**Cloud & DevOps:** AWS, Docker, CI/CD  
-**Others:** GraphQL, TypeScript, Prisma, Redis  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,nodejs,express,nestjs,mongodb,mysql,postgres,prisma,sequelize,aws,docker,git,github,postman,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Scalable Payment & Refund System
-- Multi-gateway integration (NMI, Authorize.net, Linked2Pay)
-- Supports partial & full refunds
-- Retry & failure handling mechanisms
-
-### 🔹 Order Management System
-- Scalable backend architecture
-- Optimized database queries for performance
-- Real-world business workflows
-
-### 🔹 BharatConnect (Full Stack App)
-- Built using Next.js, Node.js, MongoDB
-- Implemented authentication & admin systems
-- SSR for SEO and performance optimization
+💳 Multi-gateway integration (NMI, Authorize.net, Linked2Pay)  
+⚡ Handles partial/full refunds with retry logic  
+📈 Designed for real-world transaction systems  
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 Order Management System
+📦 Scalable backend architecture  
+⚡ Optimized DB queries for performance  
+🧠 Real-world business logic  
+
+---
+
+### 🔹 BharatConnect
+🌐 Full-stack app using Next.js + Node.js  
+🔐 Authentication + Admin panel  
+🚀 SEO optimized with SSR  
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersudhir&theme=algolia&hide_border=true" />
@@ -77,16 +87,36 @@ I specialize in designing high-performance APIs, optimizing database queries, an
 
 ---
 
-## 🎯 Currently Focused On
+## 🧠 Currently Exploring
 
-- Building scalable backend systems  
-- Advanced system design (queues, caching, distributed systems)  
-- Performance optimization & database scaling  
-- Cloud-native development using AWS  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=System+Design;Distributed+Systems;Caching+%26+Queues+(Redis);Backend+Performance+Optimization;Cloud+Architecture&font=Fira%20Code&center=true&width=600&height=40&duration=3000&pause=1000&color=18A303" />
+</p>
+
+- 📌 Advanced system design  
+- ⚡ Performance optimization  
+- 🔄 Queues & caching (Redis, Bull)  
+- ☁️ Cloud-native backend systems  
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codersudhir&theme=algolia&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codersudhir&label=Profile%20Views&color=18A303&style=flat" />
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://codersudhir.github.io/">
@@ -102,4 +132,4 @@ I specialize in designing high-performance APIs, optimizing database queries, an
 
 ---
 
-⭐ *Focused on building real-world backend systems that scale*
+⭐ *Focused on building scalable backend systems & real-world products*
